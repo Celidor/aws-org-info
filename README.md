@@ -11,6 +11,7 @@ pip install -r requirements.txt
 ## usage
 * assume a role into the AWS org management account
 * open CloudShell
+* upload the file org_access.py to CloudShell
 ```
 python org_access.py
 ```
