@@ -9,7 +9,7 @@
 #Python
 __pycache__*
 */__pycache__*
-.venv/*
+.venv
 test_reports
 .pytest_cache
 .coverage
