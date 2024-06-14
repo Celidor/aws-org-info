@@ -1,0 +1,22 @@
+#IDEs
+.idea
+.vscode
+
+#MAC OS
+.DS_Store
+*.DS_Store
+
+#Python
+__pycache__*
+*/__pycache__*
+.venv/*
+test_reports
+.pytest_cache
+.coverage
+htmlcov
+
+#Report
+iam_user_report.json
+
+#Testing
+.env
