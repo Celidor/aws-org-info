@@ -1,4 +1,5 @@
 # aws-org-info
+Obtains information about an AWS Organization
 
 ## organization access role
 * enumerates AWS accounts in an org and reports on those with the default `OrganizationAccountAccessRole`
